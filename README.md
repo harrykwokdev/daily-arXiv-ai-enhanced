@@ -44,10 +44,12 @@ Otherwise, you can directly use this repo in https://dw-dengwei.github.io/daily-
 1. Fork this repo to your own account and delete my own information in [by-me-a-coffee](./buy-me-a-coffee/README.md).
 2. Go to: your-own-repo -> Settings -> Secrets and variables -> Actions
 3. Go to Secrets. Secrets are encrypted and used for sensitive data
-4. Create two repository secrets named `OPENAI_API_KEY` and `OPENAI_BASE_URL`, and input corresponding values.
-5. [Optional] Set a password in `secrets.ACCESS_PASSWORD` if you do not wish others to access your page. (see https://github.com/dw-dengwei/daily-arXiv-ai-enhanced/pull/64)
-6. Go to Variables. Variables are shown as plain text and are used for non-sensitive data
-7. Create the following repository variables:
+4. Create required repository secret `OPENAI_API_KEY`.
+5. [Optional] Set `OPENAI_BASE_URL` for custom OpenAI-compatible endpoints.
+6. [Optional] Set `TOKEN_GITHUB` to increase GitHub API quota.
+7. [Optional] Set a password in `secrets.ACCESS_PASSWORD` if you do not wish others to access your page. (see https://github.com/dw-dengwei/daily-arXiv-ai-enhanced/pull/64)
+8. Go to Variables. Variables are shown as plain text and are used for non-sensitive data
+9. Create the following repository variables:
    1. `CATEGORIES`: separate the categories with ",", such as "cs.CL, cs.CV"
    2. `LANGUAGE`: such as "Chinese" or "English"
    3. `MODEL_NAME`: such as "deepseek-chat"
@@ -55,9 +57,27 @@ Otherwise, you can directly use this repo in https://dw-dengwei.github.io/daily-
    5. `REPORT_MODEL_NAME` [Optional]: model used for trend summary in category reports (fallback to `MODEL_NAME`)
    6. `EMAIL`: your email for push to GitHub
    7. `NAME`: your name for push to GitHub
-8. Go to your-own-repo -> Actions -> arXiv-daily-ai-enhanced
-9. You can manually click **Run workflow** to test if it works well (it may take about one hour). By default, this action will automatically run every day. You can modify it in `.github/workflows/run.yml`
-10. Set up GitHub pages: Go to your own repo -> Settings -> Pages. In `Build and deployment`, set `Source="Deploy from a branch"`, `Branch="main", "/(root)"`. Wait for a few minutes, go to https://\<username\>.github.io/daily-arXiv-ai-enhanced/. Please see this [issue](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced/issues/14) for more precise instructions.
+10. Go to your-own-repo -> Actions -> arXiv-daily-ai-enhanced
+11. You can manually click **Run workflow** to test if it works well (it may take about one hour). By default, this action will automatically run every day. You can modify it in `.github/workflows/run.yml`
+12. Set up GitHub pages: Go to your own repo -> Settings -> Pages. In `Build and deployment`, set `Source="Deploy from a branch"`, `Branch="main", "/(root)"`. Wait for a few minutes, go to https://\<username\>.github.io/daily-arXiv-ai-enhanced/. Please see this [issue](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced/issues/14) for more precise instructions.
+
+### Configuration quick reference
+
+Required:
+- Secret: `OPENAI_API_KEY`
+- Variables: `EMAIL`, `NAME`
+
+Optional:
+- Secrets: `OPENAI_BASE_URL`, `ACCESS_PASSWORD`, `TOKEN_GITHUB`
+- Variables: `CATEGORIES`, `LANGUAGE`, `MODEL_NAME`, `REPORT_TOP_N`, `REPORT_MODEL_NAME`
+
+Minimal runnable configuration (required only):
+- Secrets: `OPENAI_API_KEY`
+- Variables: `EMAIL`, `NAME`
+
+Full configuration (with optional):
+- Secrets: `OPENAI_API_KEY`, `OPENAI_BASE_URL`, `ACCESS_PASSWORD`, `TOKEN_GITHUB`
+- Variables: `CATEGORIES`, `LANGUAGE`, `MODEL_NAME`, `EMAIL`, `NAME`, `REPORT_TOP_N`, `REPORT_MODEL_NAME`
 
 ## Daily Category Reports
 
