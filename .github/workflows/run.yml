@@ -20,6 +20,49 @@ jobs:
       run: |
         curl -LsSf https://astral.sh/uv/install.sh | sh
         uv sync
+
+    - name: Validate workflow configuration
+      run: |
+        set -e
+        echo "=== arXiv-daily-ai-enhanced config check ==="
+
+        check_required() {
+          local key="$1"
+          local value="$2"
+          if [ -n "$value" ]; then
+            echo "✅ 通过 / PASS: $key"
+          else
+            echo "❌ 失败 / FAIL: $key (required)"
+            return 1
+          fi
+        }
+
+        check_optional() {
+          local key="$1"
+          local value="$2"
+          if [ -n "$value" ]; then
+            echo "✅ 通过 / PASS: $key"
+          else
+            echo "⚠️ 可选未配置 / OPTIONAL NOT SET: $key"
+          fi
+        }
+
+        # Required
+        check_required "secrets.OPENAI_API_KEY" "${{ secrets.OPENAI_API_KEY }}"
+        check_required "vars.EMAIL" "${{ vars.EMAIL }}"
+        check_required "vars.NAME" "${{ vars.NAME }}"
+
+        # Optional
+        check_optional "secrets.OPENAI_BASE_URL" "${{ secrets.OPENAI_BASE_URL }}"
+        check_optional "secrets.ACCESS_PASSWORD" "${{ secrets.ACCESS_PASSWORD }}"
+        check_optional "secrets.TOKEN_GITHUB" "${{ secrets.TOKEN_GITHUB }}"
+        check_optional "vars.CATEGORIES" "${{ vars.CATEGORIES }}"
+        check_optional "vars.LANGUAGE" "${{ vars.LANGUAGE }}"
+        check_optional "vars.MODEL_NAME" "${{ vars.MODEL_NAME }}"
+        check_optional "vars.REPORT_TOP_N" "${{ vars.REPORT_TOP_N }}"
+        check_optional "vars.REPORT_MODEL_NAME" "${{ vars.REPORT_MODEL_NAME }}"
+
+        echo "=== config check completed ==="
         
     - name: Crawl arXiv papers
       id: crawl_step
