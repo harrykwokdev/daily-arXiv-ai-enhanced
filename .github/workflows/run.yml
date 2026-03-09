@@ -23,6 +23,7 @@ jobs:
 
     - name: Validate workflow configuration
       run: |
+        set -e
         echo "=== arXiv-daily-ai-enhanced config check ==="
 
         check_required() {

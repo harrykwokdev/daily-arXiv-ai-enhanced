@@ -45,14 +45,14 @@ Otherwise, you can directly use this repo in https://dw-dengwei.github.io/daily-
 2. Go to: your-own-repo -> Settings -> Secrets and variables -> Actions
 3. Go to Secrets. Secrets are encrypted and used for sensitive data
 4. Create required repository secret `OPENAI_API_KEY`.
-5. [Optional] Set `OPENAI_BASE_URL` for custom OpenAI-compatible endpoints.
+5. [Optional] Set `OPENAI_BASE_URL` for custom OpenAI-compatible endpoints (if not set, default OpenAI endpoint is used).
 6. [Optional] Set `TOKEN_GITHUB` to increase GitHub API quota.
 7. [Optional] Set a password in `secrets.ACCESS_PASSWORD` if you do not wish others to access your page. (see https://github.com/dw-dengwei/daily-arXiv-ai-enhanced/pull/64)
 8. Go to Variables. Variables are shown as plain text and are used for non-sensitive data
 9. Create the following repository variables:
-   1. `CATEGORIES`: separate the categories with ",", such as "cs.CL, cs.CV"
-   2. `LANGUAGE`: such as "Chinese" or "English"
-   3. `MODEL_NAME`: such as "deepseek-chat"
+   1. `CATEGORIES` [Optional]: separate the categories with ",", such as "cs.CL, cs.CV" (default: `cs.CV`)
+   2. `LANGUAGE` [Optional]: such as "Chinese" or "English" (default: `Chinese`)
+   3. `MODEL_NAME` [Optional]: such as "deepseek-chat" (default: `deepseek-chat`)
    4. `REPORT_TOP_N` [Optional]: number of key papers in each category report (default: 5)
    5. `REPORT_MODEL_NAME` [Optional]: model used for trend summary in category reports (fallback to `MODEL_NAME`)
    6. `EMAIL`: your email for push to GitHub
