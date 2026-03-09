@@ -57,10 +57,13 @@ jobs:
         check_optional "vars.CATEGORIES" "${{ vars.CATEGORIES }}"
         check_optional "vars.LANGUAGE" "${{ vars.LANGUAGE }}"
         check_optional "vars.MODEL_NAME" "${{ vars.MODEL_NAME }}"
-        check_optional "vars.EMAIL (fallback: github.actor@users.noreply.github.com)" "${{ vars.EMAIL }}"
-        check_optional "vars.NAME (fallback: github.actor)" "${{ vars.NAME }}"
+        check_optional "vars.EMAIL" "${{ vars.EMAIL }}"
+        check_optional "vars.NAME" "${{ vars.NAME }}"
         check_optional "vars.REPORT_TOP_N" "${{ vars.REPORT_TOP_N }}"
         check_optional "vars.REPORT_MODEL_NAME" "${{ vars.REPORT_MODEL_NAME }}"
+
+        echo "ℹ️ git commit fallback / git提交兜底: vars.EMAIL -> github.actor@users.noreply.github.com"
+        echo "ℹ️ git commit fallback / git提交兜底: vars.NAME -> github.actor"
 
         echo "=== config check completed ==="
         
