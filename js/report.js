@@ -108,7 +108,8 @@ async function renderCurrentCategoryReport() {
       throw new Error(`Cannot fetch report markdown: ${response.status}`);
     }
     const markdown = await response.text();
-    content.innerHTML = marked.parse(markdown);
+    const rendered = marked.parse(markdown);
+    content.innerHTML = DOMPurify.sanitize(rendered);
   } catch (error) {
     console.error(error);
     content.innerHTML = `<p class="empty-state">Failed to load report: ${error.message}</p>`;
