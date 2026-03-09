@@ -213,7 +213,7 @@ def try_llm_trends(category: str, overview: dict[str, Any], top_keywords: list[t
     if not api_key:
         return None
     try:
-        from langchain.prompts import ChatPromptTemplate
+        from langchain_core.prompts import ChatPromptTemplate
         from langchain_openai import ChatOpenAI
     except Exception:
         return None
