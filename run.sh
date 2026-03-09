@@ -147,9 +147,25 @@ fi
 
 cd ..
 
-# 第五步：更新文件列表 / Step 5: Update file list
-echo "步骤5：更新文件列表... / Step 5: Updating file list..."
-ls data/*.jsonl | sed 's|data/||' > assets/file-list.txt
+# 第五步：按子板块生成日报 / Step 5: Generate category reports
+if [ "$PARTIAL_MODE" = "false" ] && [ -f "data/${today}_AI_enhanced_${LANGUAGE}.jsonl" ]; then
+    echo "步骤5：按子板块生成日报... / Step 5: Generating category reports..."
+    cd daily_arxiv
+    python daily_arxiv/generate_daily_reports.py --data ../data/${today}_AI_enhanced_${LANGUAGE}.jsonl --date ${today} --enable_llm_summary
+
+    if [ $? -ne 0 ]; then
+        echo "❌ 板块日报生成失败 / Category report generation failed"
+        exit 1
+    fi
+    cd ..
+    echo "✅ 板块日报生成完成 / Category report generation completed"
+else
+    echo "⏭️  跳过板块日报生成（部分模式或缺少AI增强数据）/ Skipping category report generation (partial mode or missing AI enhanced data)"
+fi
+
+# 第六步：更新文件列表 / Step 6: Update file list
+echo "步骤6：更新文件列表... / Step 6: Updating file list..."
+find data -type f | sed 's|^data/||' > assets/file-list.txt
 echo "✅ 文件列表更新完成 / File list updated"
 
 # 完成总结 / Completion summary
@@ -161,12 +177,13 @@ if [ "$PARTIAL_MODE" = "false" ]; then
     echo "   ✅ 去重检查 / Smart duplicate check"
     echo "   ✅ AI增强处理 / AI enhancement"
     echo "   ✅ Markdown转换 / Markdown conversion"
+    echo "   ✅ 板块日报生成 / Category report generation"
     echo "   ✅ 文件列表更新 / File list update"
 else
     echo "🔄 部分流程已完成 / Partial workflow finished:"
     echo "   ✅ 数据爬取 / Data crawling"
     echo "   ✅ 去重检查 / Smart duplicate check"
-    echo "   ⏭️  跳过AI增强和Markdown转换 / Skipped AI enhancement and Markdown conversion"
+    echo "   ⏭️  跳过AI增强、Markdown转换和板块日报生成 / Skipped AI enhancement, Markdown conversion and category report generation"
     echo "   ✅ 文件列表更新 / File list update"
     echo ""
     echo "💡 提示：设置OPENAI_API_KEY可启用完整功能 / Tip: Set OPENAI_API_KEY to enable full functionality"

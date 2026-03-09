@@ -51,11 +51,19 @@ Otherwise, you can directly use this repo in https://dw-dengwei.github.io/daily-
    1. `CATEGORIES`: separate the categories with ",", such as "cs.CL, cs.CV"
    2. `LANGUAGE`: such as "Chinese" or "English"
    3. `MODEL_NAME`: such as "deepseek-chat"
-   4. `EMAIL`: your email for push to GitHub
-   5. `NAME`: your name for push to GitHub
+   4. `REPORT_TOP_N` [Optional]: number of key papers in each category report (default: 5)
+   5. `REPORT_MODEL_NAME` [Optional]: model used for trend summary in category reports (fallback to `MODEL_NAME`)
+   6. `EMAIL`: your email for push to GitHub
+   7. `NAME`: your name for push to GitHub
 8. Go to your-own-repo -> Actions -> arXiv-daily-ai-enhanced
 9. You can manually click **Run workflow** to test if it works well (it may take about one hour). By default, this action will automatically run every day. You can modify it in `.github/workflows/run.yml`
 10. Set up GitHub pages: Go to your own repo -> Settings -> Pages. In `Build and deployment`, set `Source="Deploy from a branch"`, `Branch="main", "/(root)"`. Wait for a few minutes, go to https://\<username\>.github.io/daily-arXiv-ai-enhanced/. Please see this [issue](https://github.com/dw-dengwei/daily-arXiv-ai-enhanced/issues/14) for more precise instructions.
+
+## Daily Category Reports
+
+- The workflow auto-generates daily reports for each category that appears that day (except `all`).
+- Files are saved under `data/reports/YYYY-MM-DD/` with one markdown report per category and an `index.json`.
+- Frontend entry: `report.html` (Reports button in the header).
 
 # Plans
 See https://github.com/users/dw-dengwei/projects/3
