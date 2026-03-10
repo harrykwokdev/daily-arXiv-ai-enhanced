@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-10",
+  "generated_at": "2026-03-10T05:33:16.417191+00:00",
+  "source_file": "../data/2026-03-10_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 13,
+      "report_file": "data/reports/2026-03-10/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "agentic"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-03-10/cs.CE.md",
+      "top_keywords": [
+        "computational",
+        "pathology",
+        "era",
+        "emerging",
+        "foundation"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 49,
+      "report_file": "data/reports/2026-03-10/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 141,
+      "report_file": "data/reports/2026-03-10/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "diffusion",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-03-10/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "temporal",
+        "creation"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-03-10/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "over",
+        "channels"
+      ]
+    }
+  ]
+}
