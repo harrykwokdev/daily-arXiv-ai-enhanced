@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-15",
+  "generated_at": "2026-03-15T04:30:07.632660+00:00",
+  "source_file": "../data/2026-03-15_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 63,
+      "report_file": "data/reports/2026-03-15/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agents",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-03-15/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "online",
+        "strategic"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 49,
+      "report_file": "data/reports/2026-03-15/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 126,
+      "report_file": "data/reports/2026-03-15/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-15/cs.GT.md",
+      "top_keywords": [
+        "social",
+        "distancing",
+        "equilibria",
+        "games",
+        "under"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-03-15/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "strict",
+        "optimality"
+      ]
+    }
+  ]
+}
