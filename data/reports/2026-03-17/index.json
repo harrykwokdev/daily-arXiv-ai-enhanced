@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-17",
+  "generated_at": "2026-03-17T04:39:01.608624+00:00",
+  "source_file": "../data/2026-03-17_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 109,
+      "report_file": "data/reports/2026-03-17/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-03-17/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "dynamic",
+        "gaussian"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 108,
+      "report_file": "data/reports/2026-03-17/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 357,
+      "report_file": "data/reports/2026-03-17/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-03-17/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "gpu",
+        "texture"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-03-17/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "equilibria",
+        "under"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 19,
+      "report_file": "data/reports/2026-03-17/cs.IT.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "joint",
+        "bounds"
+      ]
+    }
+  ]
+}
