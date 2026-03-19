@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-19",
+  "generated_at": "2026-03-19T04:22:21.165647+00:00",
+  "source_file": "../data/2026-03-19_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 26,
+      "report_file": "data/reports/2026-03-19/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "memory"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-03-19/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "optimization",
+        "design"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 50,
+      "report_file": "data/reports/2026-03-19/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llms",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 147,
+      "report_file": "data/reports/2026-03-19/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-19/cs.GR.md",
+      "top_keywords": [
+        "dancingbox",
+        "lightweight",
+        "mocap",
+        "system",
+        "character"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-03-19/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "nash",
+        "dynamics"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-03-19/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "shannon",
+        "physical"
+      ]
+    }
+  ]
+}
