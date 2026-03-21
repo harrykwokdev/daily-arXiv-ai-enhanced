@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-21",
+  "generated_at": "2026-03-21T03:56:16.385423+00:00",
+  "source_file": "../data/2026-03-21_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 72,
+      "report_file": "data/reports/2026-03-21/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-03-21/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "control",
+        "nonlinear"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 58,
+      "report_file": "data/reports/2026-03-21/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "framework"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 121,
+      "report_file": "data/reports/2026-03-21/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "diffusion"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-03-21/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "dynamic",
+        "games"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-03-21/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "bounds",
+        "mimo"
+      ]
+    }
+  ]
+}
