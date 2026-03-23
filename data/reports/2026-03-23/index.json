@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-23",
+  "generated_at": "2026-03-23T04:23:01.219826+00:00",
+  "source_file": "../data/2026-03-23_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 19,
+      "report_file": "data/reports/2026-03-23/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-03-23/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "framework",
+        "design"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 76,
+      "report_file": "data/reports/2026-03-23/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 114,
+      "report_file": "data/reports/2026-03-23/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-23/cs.GR.md",
+      "top_keywords": [
+        "beltrami",
+        "coefficient",
+        "angular",
+        "distortion",
+        "discrete"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-03-23/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "linear",
+        "social"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-03-23/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "mmwave",
+        "probability"
+      ]
+    }
+  ]
+}
