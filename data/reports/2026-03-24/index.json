@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-24",
+  "generated_at": "2026-03-24T04:32:09.565464+00:00",
+  "source_file": "../data/2026-03-24_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 87,
+      "report_file": "data/reports/2026-03-24/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-03-24/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "short",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 101,
+      "report_file": "data/reports/2026-03-24/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 233,
+      "report_file": "data/reports/2026-03-24/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-03-24/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "minerobot",
+        "unified"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-03-24/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "games",
+        "constrained"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 17,
+      "report_file": "data/reports/2026-03-24/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "rate",
+        "wireless"
+      ]
+    }
+  ]
+}
