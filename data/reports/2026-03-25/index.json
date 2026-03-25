@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-25",
+  "generated_at": "2026-03-25T04:17:33.973639+00:00",
+  "source_file": "../data/2026-03-25_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 50,
+      "report_file": "data/reports/2026-03-25/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-03-25/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "trusttrade",
+        "human-inspired"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 50,
+      "report_file": "data/reports/2026-03-25/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 139,
+      "report_file": "data/reports/2026-03-25/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-03-25/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "gtlr-gs",
+        "geometry-texture"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-03-25/cs.GT.md",
+      "top_keywords": [
+        "games",
+        "summary",
+        "generation",
+        "failed",
+        "approximating"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-03-25/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "optimization",
+        "nonlinear"
+      ]
+    }
+  ]
+}
