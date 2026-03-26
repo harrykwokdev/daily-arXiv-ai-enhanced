@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-26",
+  "generated_at": "2026-03-26T04:28:56.600352+00:00",
+  "source_file": "../data/2026-03-26_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 24,
+      "report_file": "data/reports/2026-03-26/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agents",
+        "benchmark"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-03-26/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "physics-informed",
+        "stock"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 74,
+      "report_file": "data/reports/2026-03-26/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 113,
+      "report_file": "data/reports/2026-03-26/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-26/cs.GR.md",
+      "top_keywords": [
+        "oracle",
+        "orchestrate",
+        "npc",
+        "daily",
+        "activities"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-26/cs.GT.md",
+      "top_keywords": [
+        "efficient",
+        "equilibrium",
+        "computation",
+        "symmetric",
+        "first-price"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-03-26/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "wireless",
+        "codes"
+      ]
+    }
+  ]
+}
