@@ -1,0 +1,80 @@
+{
+  "date": "2026-03-28",
+  "generated_at": "2026-03-28T04:16:28.137796+00:00",
+  "source_file": "../data/2026-03-28_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 48,
+      "report_file": "data/reports/2026-03-28/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "agentic"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-03-28/cs.CE.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "optimization",
+        "xbrltagrec"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 44,
+      "report_file": "data/reports/2026-03-28/cs.CL.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "language",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 154,
+      "report_file": "data/reports/2026-03-28/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-28/cs.GT.md",
+      "top_keywords": [
+        "proportional",
+        "allocation",
+        "auctions",
+        "games",
+        "summary"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-03-28/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "over"
+      ]
+    }
+  ]
+}
