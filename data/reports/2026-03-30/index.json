@@ -1,0 +1,56 @@
+{
+  "date": "2026-03-30",
+  "generated_at": "2026-03-30T05:35:18.682049+00:00",
+  "source_file": "../data/2026-03-30_AI_enhanced_Chinese.jsonl",
+  "total_categories": 4,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-30/cs.AI.md",
+      "top_keywords": [
+        "semi-automated",
+        "knowledge",
+        "engineering",
+        "process",
+        "mapping"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-03-30/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "clinical"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 38,
+      "report_file": "data/reports/2026-03-30/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-03-30/cs.GT.md",
+      "top_keywords": [
+        "social",
+        "interactions",
+        "personalized",
+        "pricing",
+        "buyer"
+      ]
+    }
+  ]
+}
