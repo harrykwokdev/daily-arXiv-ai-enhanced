@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-01",
+  "generated_at": "2026-04-01T04:45:55.619174+00:00",
+  "source_file": "../data/2026-04-01_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 54,
+      "report_file": "data/reports/2026-04-01/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "benchmark",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-04-01/cs.CE.md",
+      "top_keywords": [
+        "wildfire",
+        "suppression",
+        "complexity",
+        "instances",
+        "summary"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 50,
+      "report_file": "data/reports/2026-04-01/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 113,
+      "report_file": "data/reports/2026-04-01/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "visual",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 13,
+      "report_file": "data/reports/2026-04-01/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "editing",
+        "planning"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-04-01/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "incentives",
+        "equilibria"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-04-01/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "communication"
+      ]
+    }
+  ]
+}
