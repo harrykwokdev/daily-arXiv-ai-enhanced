@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T04:23:47.324464+00:00",
+  "source_file": "../data/2026-04-02_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 32,
+      "report_file": "data/reports/2026-04-02/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agents",
+        "multi-agent"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-04-02/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "influence",
+        "geometry"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 73,
+      "report_file": "data/reports/2026-04-02/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 106,
+      "report_file": "data/reports/2026-04-02/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-02/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "rt-gs",
+        "gaussian"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-04-02/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "game",
+        "rankings"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-04-02/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "code",
+        "construction"
+      ]
+    }
+  ]
+}
