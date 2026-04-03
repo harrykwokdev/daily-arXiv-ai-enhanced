@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-03",
+  "generated_at": "2026-04-03T04:31:34.236417+00:00",
+  "source_file": "../data/2026-04-03_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 76,
+      "report_file": "data/reports/2026-04-03/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-04-03/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "variationally",
+        "consistent"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 61,
+      "report_file": "data/reports/2026-04-03/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 131,
+      "report_file": "data/reports/2026-04-03/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "segmentation"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-04-03/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "colorgradedgaussians",
+        "palette-based"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-04-03/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "coverage",
+        "rate"
+      ]
+    }
+  ]
+}
