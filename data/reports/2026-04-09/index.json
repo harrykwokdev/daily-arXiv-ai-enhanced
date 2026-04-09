@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-09",
+  "generated_at": "2026-04-09T04:30:22.851793+00:00",
+  "source_file": "../data/2026-04-09_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 25,
+      "report_file": "data/reports/2026-04-09/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "reasoning",
+        "framework"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-04-09/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "optimization",
+        "multiscale"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 106,
+      "report_file": "data/reports/2026-04-09/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 95,
+      "report_file": "data/reports/2026-04-09/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "multimodal"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-09/cs.GR.md",
+      "top_keywords": [
+        "under",
+        "gaussian",
+        "splatting",
+        "summary",
+        "generation"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-04-09/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "generative",
+        "behavior"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-04-09/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "liquid"
+      ]
+    }
+  ]
+}
