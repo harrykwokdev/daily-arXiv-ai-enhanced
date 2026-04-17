@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T04:49:06.580011+00:00",
+  "source_file": "../data/2026-04-17_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 91,
+      "report_file": "data/reports/2026-04-17/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "framework"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-04-17/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "weak-dmd",
+        "galerkin"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 74,
+      "report_file": "data/reports/2026-04-17/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 91,
+      "report_file": "data/reports/2026-04-17/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-17/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "step-parts",
+        "geometric"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-04-17/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "llm",
+        "coalition"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-04-17/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "explicit"
+      ]
+    }
+  ]
+}
