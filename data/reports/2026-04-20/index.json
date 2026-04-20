@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-20",
+  "generated_at": "2026-04-20T04:51:44.338418+00:00",
+  "source_file": "../data/2026-04-20_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 24,
+      "report_file": "data/reports/2026-04-20/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "knowledge"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-20/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "shifted",
+        "interface"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 53,
+      "report_file": "data/reports/2026-04-20/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 82,
+      "report_file": "data/reports/2026-04-20/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-04-20/cs.GR.md",
+      "top_keywords": [
+        "divide",
+        "truncate",
+        "penetration",
+        "inversion",
+        "free"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-04-20/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "price",
+        "paranoia"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-04-20/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "transmission",
+        "channels"
+      ]
+    }
+  ]
+}
