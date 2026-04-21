@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-21",
+  "generated_at": "2026-04-21T05:14:31.030694+00:00",
+  "source_file": "../data/2026-04-21_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 128,
+      "report_file": "data/reports/2026-04-21/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 13,
+      "report_file": "data/reports/2026-04-21/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "deep",
+        "scalable"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 183,
+      "report_file": "data/reports/2026-04-21/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 267,
+      "report_file": "data/reports/2026-04-21/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-04-21/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "games",
+        "counterexample"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 19,
+      "report_file": "data/reports/2026-04-21/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "decoding"
+      ]
+    }
+  ]
+}
