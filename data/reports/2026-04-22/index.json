@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T04:43:24.310550+00:00",
+  "source_file": "../data/2026-04-22_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 45,
+      "report_file": "data/reports/2026-04-22/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-04-22/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "tensor",
+        "implicit"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 78,
+      "report_file": "data/reports/2026-04-22/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 104,
+      "report_file": "data/reports/2026-04-22/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "multimodal"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-04-22/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "gaussian",
+        "splatting"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-04-22/cs.GT.md",
+      "top_keywords": [
+        "last-iterate",
+        "guarantees",
+        "co-coercive",
+        "games",
+        "summary"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-04-22/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "communication",
+        "tight"
+      ]
+    }
+  ]
+}
