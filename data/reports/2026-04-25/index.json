@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T04:30:58.182767+00:00",
+  "source_file": "../data/2026-04-25_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 57,
+      "report_file": "data/reports/2026-04-25/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-25/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "jax-bem",
+        "gradient-based"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 63,
+      "report_file": "data/reports/2026-04-25/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 86,
+      "report_file": "data/reports/2026-04-25/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-04-25/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "styleid",
+        "perception-aware"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-04-25/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "markovian",
+        "traffic"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-04-25/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "matrix"
+      ]
+    }
+  ]
+}
