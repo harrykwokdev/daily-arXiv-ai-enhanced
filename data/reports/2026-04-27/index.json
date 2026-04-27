@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T04:57:32.634021+00:00",
+  "source_file": "../data/2026-04-27_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 17,
+      "report_file": "data/reports/2026-04-27/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agent",
+        "framework"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-27/cs.CE.md",
+      "top_keywords": [
+        "generation",
+        "optimization",
+        "summary",
+        "failed",
+        "topology"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 44,
+      "report_file": "data/reports/2026-04-27/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 61,
+      "report_file": "data/reports/2026-04-27/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "visual",
+        "detection"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-27/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "trust-sc",
+        "truthful"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-04-27/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "isac",
+        "secrecy"
+      ]
+    }
+  ]
+}
