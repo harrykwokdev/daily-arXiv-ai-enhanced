@@ -1,0 +1,92 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T05:05:22.219295+00:00",
+  "source_file": "../data/2026-04-30_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 16,
+      "report_file": "data/reports/2026-04-30/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agents",
+        "mathematics"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-04-30/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "linear",
+        "matrix-free"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 62,
+      "report_file": "data/reports/2026-04-30/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 83,
+      "report_file": "data/reports/2026-04-30/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-30/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "sand",
+        "spatially"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-04-30/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "mises",
+        "minimal"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 13,
+      "report_file": "data/reports/2026-04-30/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "systems"
+      ]
+    }
+  ]
+}
