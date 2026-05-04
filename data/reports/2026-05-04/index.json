@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-04",
+  "generated_at": "2026-05-04T05:07:24.823667+00:00",
+  "source_file": "../data/2026-05-04_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 17,
+      "report_file": "data/reports/2026-05-04/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agentic",
+        "call"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-05-04/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "fields",
+        "stress"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 45,
+      "report_file": "data/reports/2026-05-04/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 62,
+      "report_file": "data/reports/2026-05-04/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "detection"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-05-04/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "towards",
+        "interactive"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-05-04/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "compatible",
+        "relaxations"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-05-04/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "decoding",
+        "estimation"
+      ]
+    }
+  ]
+}
