@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T05:07:01.884155+00:00",
+  "source_file": "../data/2026-05-07_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 26,
+      "report_file": "data/reports/2026-05-07/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agent",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-05-07/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "ice",
+        "how"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 60,
+      "report_file": "data/reports/2026-05-07/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 95,
+      "report_file": "data/reports/2026-05-07/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "detection"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-05-07/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "bayesian",
+        "task-specific"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-05-07/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "when",
+        "graph"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 13,
+      "report_file": "data/reports/2026-05-07/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "coding",
+        "source"
+      ]
+    }
+  ]
+}
