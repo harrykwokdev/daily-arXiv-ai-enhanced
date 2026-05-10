@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T05:27:33.982774+00:00",
+  "source_file": "../data/2026-05-10_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 129,
+      "report_file": "data/reports/2026-05-10/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-05-10/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "adaptive",
+        "discrete"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 65,
+      "report_file": "data/reports/2026-05-10/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 115,
+      "report_file": "data/reports/2026-05-10/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-05-10/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "reality",
+        "check"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-05-10/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "games",
+        "independent"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-05-10/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "additive"
+      ]
+    }
+  ]
+}
