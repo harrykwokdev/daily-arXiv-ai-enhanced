@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T05:37:02.025481+00:00",
+  "source_file": "../data/2026-05-13_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 107,
+      "report_file": "data/reports/2026-05-13/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-05-13/cs.CE.md",
+      "top_keywords": [
+        "crash",
+        "assessment",
+        "mesh-based",
+        "graph",
+        "neural"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 78,
+      "report_file": "data/reports/2026-05-13/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 154,
+      "report_file": "data/reports/2026-05-13/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-05-13/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "dgs",
+        "rendering"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-05-13/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "towards",
+        "model-free"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 22,
+      "report_file": "data/reports/2026-05-13/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "over"
+      ]
+    }
+  ]
+}
