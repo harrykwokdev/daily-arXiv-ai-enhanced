@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T06:25:25.473679+00:00",
+  "source_file": "../data/2026-05-19_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 133,
+      "report_file": "data/reports/2026-05-19/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-05-19/cs.CE.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "framework",
+        "alpha"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 107,
+      "report_file": "data/reports/2026-05-19/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llms",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 299,
+      "report_file": "data/reports/2026-05-19/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 17,
+      "report_file": "data/reports/2026-05-19/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "gaussian",
+        "splatting"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-05-19/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "under",
+        "mechanism"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 15,
+      "report_file": "data/reports/2026-05-19/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "clustered"
+      ]
+    }
+  ]
+}
