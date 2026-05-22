@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T05:57:28.539453+00:00",
+  "source_file": "../data/2026-05-22_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 74,
+      "report_file": "data/reports/2026-05-22/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-05-22/cs.CE.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "time",
+        "series"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 65,
+      "report_file": "data/reports/2026-05-22/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "benchmark"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 138,
+      "report_file": "data/reports/2026-05-22/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-05-22/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "auctions",
+        "joint"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-05-22/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "antenna"
+      ]
+    }
+  ]
+}
