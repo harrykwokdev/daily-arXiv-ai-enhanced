@@ -1,0 +1,92 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T06:10:54.168363+00:00",
+  "source_file": "../data/2026-05-27_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 65,
+      "report_file": "data/reports/2026-05-27/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "agent"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-05-27/cs.CE.md",
+      "top_keywords": [
+        "advances",
+        "polyconvex",
+        "anisotropic",
+        "hyperelasticity",
+        "summary"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 103,
+      "report_file": "data/reports/2026-05-27/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 121,
+      "report_file": "data/reports/2026-05-27/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "vision-language",
+        "detection"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-05-27/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "garment",
+        "particles"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-05-27/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "nash",
+        "improved"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-05-27/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "joint"
+      ]
+    }
+  ]
+}
