@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T06:36:18.680595+00:00",
+  "source_file": "../data/2026-05-29_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 137,
+      "report_file": "data/reports/2026-05-29/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-05-29/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "head",
+        "lumped"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 133,
+      "report_file": "data/reports/2026-05-29/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 134,
+      "report_file": "data/reports/2026-05-29/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-05-29/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "before",
+        "shutter"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-05-29/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "framework",
+        "shaping"
+      ]
+    }
+  ]
+}
