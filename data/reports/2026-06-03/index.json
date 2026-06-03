@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T07:54:21.801203+00:00",
+  "source_file": "../data/2026-06-03_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 81,
+      "report_file": "data/reports/2026-06-03/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-06-03/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "margin",
+        "analysis"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 93,
+      "report_file": "data/reports/2026-06-03/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 122,
+      "report_file": "data/reports/2026-06-03/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "visual",
+        "multimodal"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-03/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "fewer",
+        "better"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-03/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "democracy",
+        "rugged"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-06-03/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "systems",
+        "secrecy"
+      ]
+    }
+  ]
+}
