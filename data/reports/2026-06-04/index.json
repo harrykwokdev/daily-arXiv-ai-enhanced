@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T06:39:33.164386+00:00",
+  "source_file": "../data/2026-06-04_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 43,
+      "report_file": "data/reports/2026-06-04/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "agentic"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-04/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "when",
+        "does"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 79,
+      "report_file": "data/reports/2026-06-04/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 101,
+      "report_file": "data/reports/2026-06-04/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-04/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "geometry",
+        "gaussians"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-06-04/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "welfare",
+        "maximization"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-06-04/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "preisach",
+        "extremum"
+      ]
+    }
+  ]
+}
