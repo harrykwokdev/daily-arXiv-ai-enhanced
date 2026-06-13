@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T06:10:35.943480+00:00",
+  "source_file": "../data/2026-06-13_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 86,
+      "report_file": "data/reports/2026-06-13/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-06-13/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "polynomial-decay",
+        "pinhole-imaging"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 67,
+      "report_file": "data/reports/2026-06-13/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 76,
+      "report_file": "data/reports/2026-06-13/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-13/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "computation",
+        "no-show"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-06-13/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "systems"
+      ]
+    }
+  ]
+}
