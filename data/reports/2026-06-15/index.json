@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T06:55:41.886970+00:00",
+  "source_file": "../data/2026-06-15_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 41,
+      "report_file": "data/reports/2026-06-15/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agent",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-15/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "towards",
+        "silico"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 43,
+      "report_file": "data/reports/2026-06-15/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 70,
+      "report_file": "data/reports/2026-06-15/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "detection"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-06-15/cs.GR.md",
+      "top_keywords": [
+        "holopathtracer",
+        "fast",
+        "accurate",
+        "wave",
+        "path"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-15/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "two",
+        "observations"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-06-15/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "how"
+      ]
+    }
+  ]
+}
