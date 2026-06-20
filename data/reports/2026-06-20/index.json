@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T06:07:41.530106+00:00",
+  "source_file": "../data/2026-06-20_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 73,
+      "report_file": "data/reports/2026-06-20/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-20/cs.CE.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "hybrid",
+        "sharp-diffuse"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 56,
+      "report_file": "data/reports/2026-06-20/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 101,
+      "report_file": "data/reports/2026-06-20/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-06-20/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "beyond",
+        "lower"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-06-20/cs.IT.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "channel",
+        "flow"
+      ]
+    }
+  ]
+}
