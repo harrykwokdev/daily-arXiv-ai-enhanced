@@ -1,0 +1,80 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T05:50:52.819807+00:00",
+  "source_file": "../data/2026-06-24_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 70,
+      "report_file": "data/reports/2026-06-24/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-06-24/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "reduction",
+        "development"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 68,
+      "report_file": "data/reports/2026-06-24/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 116,
+      "report_file": "data/reports/2026-06-24/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-06-24/cs.GT.md",
+      "top_keywords": [
+        "rationalizing",
+        "collective",
+        "revealed",
+        "preferences",
+        "application"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-06-24/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "linear",
+        "random"
+      ]
+    }
+  ]
+}
