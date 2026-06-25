@@ -1,0 +1,68 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T05:38:23.042529+00:00",
+  "source_file": "../data/2026-06-25_AI_enhanced_Chinese.jsonl",
+  "total_categories": 5,
+  "categories": [
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-25/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "two-stage",
+        "decision"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-06-25/cs.CV.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "sparse",
+        "imperfect"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-06-25/cs.GR.md",
+      "top_keywords": [
+        "self-supervised",
+        "garment",
+        "dynamics",
+        "persistent",
+        "wrinkles"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-06-25/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "games",
+        "facility"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-06-25/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "channel",
+        "estimation"
+      ]
+    }
+  ]
+}
