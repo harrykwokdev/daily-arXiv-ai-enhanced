@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T06:25:49.050035+00:00",
+  "source_file": "../data/2026-06-29_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 20,
+      "report_file": "data/reports/2026-06-29/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "llm",
+        "planning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-29/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "doppler",
+        "tracking"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 41,
+      "report_file": "data/reports/2026-06-29/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "llms"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 91,
+      "report_file": "data/reports/2026-06-29/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-06-29/cs.GR.md",
+      "top_keywords": [
+        "spectral",
+        "subsurface",
+        "scattering",
+        "rgb",
+        "biophysical"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-29/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "nash",
+        "game"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-06-29/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "deriving",
+        "approximate"
+      ]
+    }
+  ]
+}
