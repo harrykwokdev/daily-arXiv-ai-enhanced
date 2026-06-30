@@ -1,0 +1,92 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T06:17:30.032175+00:00",
+  "source_file": "../data/2026-06-30_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 112,
+      "report_file": "data/reports/2026-06-30/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-30/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "toward",
+        "exascale"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 117,
+      "report_file": "data/reports/2026-06-30/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 261,
+      "report_file": "data/reports/2026-06-30/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-06-30/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "scattering",
+        "rendering"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-06-30/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "games",
+        "game"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 24,
+      "report_file": "data/reports/2026-06-30/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "under",
+        "joint"
+      ]
+    }
+  ]
+}
