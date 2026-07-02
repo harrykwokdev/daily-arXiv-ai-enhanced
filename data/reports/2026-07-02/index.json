@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T05:47:11.943021+00:00",
+  "source_file": "../data/2026-07-02_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 31,
+      "report_file": "data/reports/2026-07-02/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "agentic"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-07-02/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "generalized",
+        "normal"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 63,
+      "report_file": "data/reports/2026-07-02/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 141,
+      "report_file": "data/reports/2026-07-02/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-07-02/cs.GR.md",
+      "top_keywords": [
+        "geometric",
+        "shape",
+        "optimization",
+        "limbless",
+        "locomotion"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-07-02/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "utility",
+        "voting"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-07-02/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "intelligent",
+        "sensing"
+      ]
+    }
+  ]
+}
