@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T06:13:16.899416+00:00",
+  "source_file": "../data/2026-07-07_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 96,
+      "report_file": "data/reports/2026-07-07/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-07-07/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "bitcoin",
+        "distribution"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 108,
+      "report_file": "data/reports/2026-07-07/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 326,
+      "report_file": "data/reports/2026-07-07/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "video"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-07-07/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "scene",
+        "differentiable"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-07-07/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "mechanism",
+        "value"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 22,
+      "report_file": "data/reports/2026-07-07/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "bound"
+      ]
+    }
+  ]
+}
