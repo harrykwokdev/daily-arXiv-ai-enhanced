@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T05:59:40.999671+00:00",
+  "source_file": "../data/2026-07-09_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-07-09/cs.AI.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "reasoning",
+        "search"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 3,
+      "report_file": "data/reports/2026-07-09/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "when",
+        "how"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-07-09/cs.CL.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "noisy",
+        "traces"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-07-09/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "cross-attention"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-07-09/cs.GT.md",
+      "top_keywords": [
+        "what",
+        "semivalues",
+        "cannot",
+        "see",
+        "information"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-07-09/cs.IT.md",
+      "top_keywords": [
+        "codes",
+        "four",
+        "classes",
+        "few-weight",
+        "self-orthogonal"
+      ]
+    }
+  ]
+}
