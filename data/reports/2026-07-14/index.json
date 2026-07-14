@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T04:54:53.456484+00:00",
+  "source_file": "../data/2026-07-14_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 116,
+      "report_file": "data/reports/2026-07-14/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "reasoning"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-07-14/cs.CE.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "algorithm",
+        "beam"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 92,
+      "report_file": "data/reports/2026-07-14/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 188,
+      "report_file": "data/reports/2026-07-14/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "detection"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-07-14/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "mesh",
+        "ibpa"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 16,
+      "report_file": "data/reports/2026-07-14/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "game",
+        "games"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 16,
+      "report_file": "data/reports/2026-07-14/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "interference"
+      ]
+    }
+  ]
+}
