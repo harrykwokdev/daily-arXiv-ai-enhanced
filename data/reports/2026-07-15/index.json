@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T04:38:00.065329+00:00",
+  "source_file": "../data/2026-07-15_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 53,
+      "report_file": "data/reports/2026-07-15/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-07-15/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "singular",
+        "nurbs-trace"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 46,
+      "report_file": "data/reports/2026-07-15/cs.CL.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "language",
+        "framework"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 96,
+      "report_file": "data/reports/2026-07-15/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "visual"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-07-15/cs.GR.md",
+      "top_keywords": [
+        "adaptive",
+        "fluid",
+        "cohomology",
+        "surfaces",
+        "summary"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-07-15/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "cycles",
+        "liquid"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-07-15/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "communications",
+        "codes"
+      ]
+    }
+  ]
+}
