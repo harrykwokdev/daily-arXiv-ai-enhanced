@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T05:11:38.429320+00:00",
+  "source_file": "../data/2026-07-20_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 26,
+      "report_file": "data/reports/2026-07-20/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 27,
+      "report_file": "data/reports/2026-07-20/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "better"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 76,
+      "report_file": "data/reports/2026-07-20/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "recognition"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-07-20/cs.GR.md",
+      "top_keywords": [
+        "rendering",
+        "gaussians",
+        "graph",
+        "processor",
+        "summary"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 1,
+      "report_file": "data/reports/2026-07-20/cs.GT.md",
+      "top_keywords": [
+        "fair",
+        "allocation",
+        "divisible",
+        "goods",
+        "under"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 8,
+      "report_file": "data/reports/2026-07-20/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "power",
+        "role"
+      ]
+    }
+  ]
+}
