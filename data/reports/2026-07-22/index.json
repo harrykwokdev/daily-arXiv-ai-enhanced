@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-22",
+  "generated_at": "2026-07-22T04:59:24.829765+00:00",
+  "source_file": "../data/2026-07-22_AI_enhanced_Chinese.jsonl",
+  "total_categories": 6,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 68,
+      "report_file": "data/reports/2026-07-22/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "llm",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-07-22/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "financecomplexqa",
+        "benchmarking"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 48,
+      "report_file": "data/reports/2026-07-22/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "reasoning",
+        "language"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 78,
+      "report_file": "data/reports/2026-07-22/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "detection",
+        "fusion"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-07-22/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "value",
+        "market"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 11,
+      "report_file": "data/reports/2026-07-22/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "intelligent"
+      ]
+    }
+  ]
+}
