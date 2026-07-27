@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T05:16:46.471368+00:00",
+  "source_file": "../data/2026-07-27_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 51,
+      "report_file": "data/reports/2026-07-27/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agentic",
+        "agents"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 4,
+      "report_file": "data/reports/2026-07-27/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "alleged",
+        "chaos"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 29,
+      "report_file": "data/reports/2026-07-27/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 53,
+      "report_file": "data/reports/2026-07-27/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "image",
+        "segmentation"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-07-27/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "curly",
+        "loom"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 2,
+      "report_file": "data/reports/2026-07-27/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "three-body",
+        "alignment"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 9,
+      "report_file": "data/reports/2026-07-27/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "interference",
+        "codes"
+      ]
+    }
+  ]
+}
