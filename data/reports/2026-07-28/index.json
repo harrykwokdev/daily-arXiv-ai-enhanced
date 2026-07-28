@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T05:14:22.288622+00:00",
+  "source_file": "../data/2026-07-28_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 185,
+      "report_file": "data/reports/2026-07-28/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 7,
+      "report_file": "data/reports/2026-07-28/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "scalable",
+        "topology"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 80,
+      "report_file": "data/reports/2026-07-28/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "large"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 187,
+      "report_file": "data/reports/2026-07-28/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "image"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 12,
+      "report_file": "data/reports/2026-07-28/cs.GR.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "gaussian",
+        "splatting"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 10,
+      "report_file": "data/reports/2026-07-28/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "games",
+        "fair"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 24,
+      "report_file": "data/reports/2026-07-28/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "energy"
+      ]
+    }
+  ]
+}
