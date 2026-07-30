@@ -1,0 +1,92 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T04:42:46.434022+00:00",
+  "source_file": "../data/2026-07-30_AI_enhanced_Chinese.jsonl",
+  "total_categories": 7,
+  "categories": [
+    {
+      "category": "cs.AI",
+      "paper_count": 32,
+      "report_file": "data/reports/2026-07-30/cs.AI.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "agents",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CE",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-07-30/cs.CE.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "floor",
+        "not"
+      ]
+    },
+    {
+      "category": "cs.CL",
+      "paper_count": 51,
+      "report_file": "data/reports/2026-07-30/cs.CL.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "language",
+        "llm"
+      ]
+    },
+    {
+      "category": "cs.CV",
+      "paper_count": 86,
+      "report_file": "data/reports/2026-07-30/cs.CV.md",
+      "top_keywords": [
+        "generation",
+        "summary",
+        "failed",
+        "video",
+        "multimodal"
+      ]
+    },
+    {
+      "category": "cs.GR",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-07-30/cs.GR.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "gaussian",
+        "splatting"
+      ]
+    },
+    {
+      "category": "cs.GT",
+      "paper_count": 6,
+      "report_file": "data/reports/2026-07-30/cs.GT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "collusion",
+        "stable"
+      ]
+    },
+    {
+      "category": "cs.IT",
+      "paper_count": 5,
+      "report_file": "data/reports/2026-07-30/cs.IT.md",
+      "top_keywords": [
+        "summary",
+        "generation",
+        "failed",
+        "codes",
+        "bounds"
+      ]
+    }
+  ]
+}
